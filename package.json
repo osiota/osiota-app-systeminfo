@@ -1,0 +1,20 @@
+{
+  "name": "osiota-app-systeminfo",
+  "version": "1.0.0",
+  "description": "This application provides static information about the system",
+  "main": "index.js",
+  "author": "Simon Walz and others",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "osiota-dev": "^1.x"
+  },
+  "scripts": {
+    "test": "./test.js",
+    "doc": "osiota-dev-doc-jsonschema --schema schema.json --app $npm_package_name"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osiota/osiota-app-systeminfo.git"
+  }
+}

@@ -1,0 +1,10 @@
+{
+	"$schema": "http://json-schema.org/draft/2019-09/schema#",
+	"type": "object",
+	"title": "osiota application systeminfo",
+	"description": "This application provides static information about the system.",
+	"properties": {
+	},
+	"required": [ ],
+	"additionalProperties": false
+}
