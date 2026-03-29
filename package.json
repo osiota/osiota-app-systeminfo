@@ -1,6 +1,6 @@
 {
   "name": "osiota-app-systeminfo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This application provides static information about the system",
   "main": "index.js",
   "author": "Simon Walz and others",
